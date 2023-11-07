@@ -1,4 +1,4 @@
-# India-First-Repository
+# India-First-Repo
 
 ## Exploring GitHub
 
